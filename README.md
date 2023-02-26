@@ -64,7 +64,6 @@
     </td>
     <td width="400" align="center">
 <!-- Other -->
-<a target="blank"><img src="Icons/Adobe_Photoshop.png" width="50" />Adobe Photoshop</a>
     </td>
   </tr>
 </table>
