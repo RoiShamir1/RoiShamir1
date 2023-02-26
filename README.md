@@ -38,7 +38,7 @@
   <tr >
     <th>Frontend</th>
     <th>Backend</th>
-    <th>Other</th>
+<!--     <th>Other</th> -->
   </tr> 
   <tr>
     <td width="400" align="center">
