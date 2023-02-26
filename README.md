@@ -61,5 +61,5 @@
 <a target="blank"><img src="Icons/SQL.png" width="50" />SQL</a>
       
 <a target="blank"><img src="Icons/NodeJS-Dark.svg" width="50" />Node.js</a>
-  </tr>
+  
 </table>
