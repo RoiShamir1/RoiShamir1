@@ -51,6 +51,7 @@
       
 <a target="blank"><img src="Icons/TypeScript.svg" width="50" />Typescript</a>
 <a target="blank"><img src="Icons/Angular-Dark.svg" width="50" />Angular</a>
+<a target="blank"><img src="Icons/React-icon.svg.png" width="50" />React</a>
     </td>
     <td width="400" align="center">
  <!-- BackEnd -->
