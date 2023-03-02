@@ -1,5 +1,5 @@
 <!-- Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Victor+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Roi Shamir Welcome to my Profile!">
+<h2>Hey, I'm Roi Shamir Welcome to my profile</h2>
 
 ### <p align="center"> Programming enthusiast with an interest in Software development. </p>
 
