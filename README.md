@@ -27,9 +27,9 @@
 ### <p align="center"> My Links </p>
 <div align="center">
   
-<a href="https://www.linkedin.com/in/roi-shamir-a0a692262/" target="blank"><img align="right" src="Icons/Social/LinkedIn.png" width="50" />LinkedIn</a>
+<a href="https://www.linkedin.com/in/roi-shamir-a0a692262/" target="blank"><img align="center" src="Icons/Social/LinkedIn.png" width="50" />LinkedIn</a>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoiShamir1&show_icons=true&locale=en&layout=compact" alt="RoiShamir1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoiShamir1&show_icons=true&locale=en&layout=compact" alt="RoiShamir1" /></p>
 
 <img  src="Icons/borderseperator.gif">
 
